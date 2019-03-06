@@ -19,7 +19,7 @@ import org.testng.Reporter;
 import org.testng.TestListenerAdapter;
 
 /**
- * @author  描述：来自网易的截图插件
+ * @author
  *
  */
 public class TestResultListener extends TestListenerAdapter {
