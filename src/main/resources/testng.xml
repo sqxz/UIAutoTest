@@ -3,7 +3,9 @@
 <suite name="autoTest">
     <test name="test">
         <classes>
-            <class name="com.webautotest.testcases.Login_001"/>
+            <class name="com.webautotest.testcases.Login_001">
+
+            </class>
         </classes>
     </test>
     <listeners>
