@@ -3,9 +3,7 @@ package com.webautotest.base;
 import com.webautotest.utils.ExcelDataProvider;
 import com.webautotest.utils.ReadProperties;
 import com.webautotest.utils.SeleniumUtil;
-import org.testng.annotations.AfterTest;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.DataProvider;
+import org.testng.annotations.*;
 
 import java.util.Iterator;
 
@@ -16,7 +14,7 @@ public class BaseParpare {
     public int timeOut = 0;
     public long waitMillisecondsForAlert = 0;
 
-    @BeforeTest
+    @BeforeClass
     public void beforeTest(){
         seleniumUtil = new SeleniumUtil();
         webUrl = ReadProperties.getBundle("application").getString("webUrl");
@@ -25,7 +23,7 @@ public class BaseParpare {
 
     }
 
-    @AfterTest
+    @AfterClass
     public void afterTest(){
         seleniumUtil.quit();
     }
