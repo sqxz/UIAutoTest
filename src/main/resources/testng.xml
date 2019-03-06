@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="autoTest">
+    <test name="test">
+        <classes>
+            <class name="com.webautotest.testcases.Login_001"/>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.webautotest.utils.TestResultListener"/>
+     <!--   <listener class-name="com.webautotest.utils.ExtentTestNGIReportListener"/>-->
+    </listeners>
+</suite>
