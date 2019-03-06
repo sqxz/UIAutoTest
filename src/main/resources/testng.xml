@@ -8,6 +8,6 @@
     </test>
     <listeners>
         <listener class-name="com.webautotest.utils.TestResultListener"/>
-     <!--   <listener class-name="com.webautotest.utils.ExtentTestNGIReportListener"/>-->
+        <listener class-name="com.webautotest.utils.ExtentTestNGIReportListener"/>
     </listeners>
 </suite>
