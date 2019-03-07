@@ -1,524 +1,186 @@
-2019-03-06 10:42:15  [ main:1 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 10:43:04  [ main:49389 ] - [ WARN ]  test 测试用例由于某些原因被跳过！
-2019-03-06 10:43:04  [ main:49391 ] - [ INFO ]  被跳过的用例 = test
-2019-03-06 10:43:25  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 10:43:30  [ main:5070 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 10:43:30  [ main:5071 ] - [ INFO ]  等待页面加载完成
-2019-03-06 10:43:32  [ main:6953 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 10:43:32  [ main:6972 ] - [ INFO ]  test 测试用例开始执行！
-2019-03-06 10:43:32  [ main:6973 ] - [ INFO ]  test 测试用例执行成功！
-2019-03-06 10:43:33  [ main:7822 ] - [ INFO ]  浏览器退出成功
-2019-03-06 10:43:33  [ main:7823 ] - [ INFO ]  执行成功的用例 = test
-2019-03-06 10:45:25  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 10:45:30  [ main:4968 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 10:45:30  [ main:4968 ] - [ INFO ]  等待页面加载完成
-2019-03-06 10:45:32  [ main:6653 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 10:45:33  [ main:7787 ] - [ INFO ]  浏览器退出成功
-2019-03-06 10:53:34  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 10:53:40  [ main:5180 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 10:53:40  [ main:5180 ] - [ INFO ]  等待页面加载完成
-2019-03-06 10:53:42  [ main:7755 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 10:53:42  [ main:7774 ] - [ INFO ]  test 测试用例开始执行！
-2019-03-06 10:53:42  [ main:7775 ] - [ INFO ]  test 测试用例执行成功！
-2019-03-06 10:53:43  [ main:8987 ] - [ INFO ]  浏览器退出成功
-2019-03-06 10:53:43  [ main:8987 ] - [ INFO ]  执行成功的用例 = test
-2019-03-06 10:53:43  [ main:9090 ] - [ DEBUG ]  Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:43  [ main:9092 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2019-03-06 10:53:43  [ main:9094 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index.ftl"): Found
-2019-03-06 10:53:43  [ main:9095 ] - [ DEBUG ]  Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2019-03-06 10:53:44  [ main:9238 ] - [ DEBUG ]  Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9238 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9239 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head.ftl"): Found
-2019-03-06 10:53:44  [ main:9239 ] - [ DEBUG ]  Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2019-03-06 10:53:44  [ main:9243 ] - [ DEBUG ]  Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9244 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9244 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav.ftl"): Found
-2019-03-06 10:53:44  [ main:9245 ] - [ DEBUG ]  Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2019-03-06 10:53:44  [ main:9255 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9255 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9256 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2019-03-06 10:53:44  [ main:9256 ] - [ DEBUG ]  Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2019-03-06 10:53:44  [ main:9264 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9264 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9265 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2019-03-06 10:53:44  [ main:9265 ] - [ DEBUG ]  Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2019-03-06 10:53:44  [ main:9276 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9277 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9278 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2019-03-06 10:53:44  [ main:9278 ] - [ DEBUG ]  Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2019-03-06 10:53:44  [ main:9290 ] - [ DEBUG ]  Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9290 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9291 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2019-03-06 10:53:44  [ main:9291 ] - [ DEBUG ]  Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2019-03-06 10:53:44  [ main:9295 ] - [ DEBUG ]  Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9295 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9296 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2019-03-06 10:53:44  [ main:9296 ] - [ DEBUG ]  Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2019-03-06 10:53:44  [ main:9301 ] - [ DEBUG ]  Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9303 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9303 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2019-03-06 10:53:44  [ main:9303 ] - [ DEBUG ]  Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2019-03-06 10:53:44  [ main:9307 ] - [ DEBUG ]  Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9307 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9308 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2019-03-06 10:53:44  [ main:9308 ] - [ DEBUG ]  Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2019-03-06 10:53:44  [ main:9312 ] - [ DEBUG ]  Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:53:44  [ main:9313 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2019-03-06 10:53:44  [ main:9313 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2019-03-06 10:53:44  [ main:9313 ] - [ DEBUG ]  Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2019-03-06 10:57:18  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 10:57:23  [ main:5099 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 10:57:23  [ main:5099 ] - [ INFO ]  等待页面加载完成
-2019-03-06 10:57:25  [ main:6680 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 10:57:25  [ main:6695 ] - [ INFO ]  test 测试用例开始执行！
-2019-03-06 10:57:25  [ main:6697 ] - [ INFO ]  test 测试用例执行成功！
-2019-03-06 10:57:26  [ main:8247 ] - [ INFO ]  浏览器退出成功
-2019-03-06 10:57:26  [ main:8247 ] - [ INFO ]  执行成功的用例 = test
-2019-03-06 10:57:26  [ main:8340 ] - [ DEBUG ]  Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:26  [ main:8341 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2019-03-06 10:57:26  [ main:8342 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index.ftl"): Found
-2019-03-06 10:57:26  [ main:8343 ] - [ DEBUG ]  Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2019-03-06 10:57:27  [ main:8482 ] - [ DEBUG ]  Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8482 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8483 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head.ftl"): Found
-2019-03-06 10:57:27  [ main:8483 ] - [ DEBUG ]  Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2019-03-06 10:57:27  [ main:8486 ] - [ DEBUG ]  Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8486 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8486 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav.ftl"): Found
-2019-03-06 10:57:27  [ main:8487 ] - [ DEBUG ]  Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2019-03-06 10:57:27  [ main:8495 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8495 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8496 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2019-03-06 10:57:27  [ main:8496 ] - [ DEBUG ]  Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2019-03-06 10:57:27  [ main:8505 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8505 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8506 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2019-03-06 10:57:27  [ main:8506 ] - [ DEBUG ]  Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2019-03-06 10:57:27  [ main:8517 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8518 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8519 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2019-03-06 10:57:27  [ main:8519 ] - [ DEBUG ]  Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2019-03-06 10:57:27  [ main:8532 ] - [ DEBUG ]  Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8532 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8533 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2019-03-06 10:57:27  [ main:8533 ] - [ DEBUG ]  Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2019-03-06 10:57:27  [ main:8537 ] - [ DEBUG ]  Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8537 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8537 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2019-03-06 10:57:27  [ main:8537 ] - [ DEBUG ]  Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2019-03-06 10:57:27  [ main:8541 ] - [ DEBUG ]  Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8542 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8542 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2019-03-06 10:57:27  [ main:8543 ] - [ DEBUG ]  Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2019-03-06 10:57:27  [ main:8547 ] - [ DEBUG ]  Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8547 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8548 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2019-03-06 10:57:27  [ main:8548 ] - [ DEBUG ]  Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2019-03-06 10:57:27  [ main:8552 ] - [ DEBUG ]  Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 10:57:27  [ main:8553 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2019-03-06 10:57:27  [ main:8553 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2019-03-06 10:57:27  [ main:8553 ] - [ DEBUG ]  Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2019-03-06 11:09:01  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 11:09:06  [ main:4954 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 11:09:06  [ main:4954 ] - [ INFO ]  等待页面加载完成
-2019-03-06 11:09:09  [ main:7492 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 11:09:09  [ main:8183 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 11:09:09  [ main:8183 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 11:09:10  [ main:9282 ] - [ INFO ]  浏览器退出成功
-2019-03-06 11:11:50  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 11:11:55  [ main:4813 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 11:11:55  [ main:4813 ] - [ INFO ]  等待页面加载完成
-2019-03-06 11:11:57  [ main:6624 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 11:11:57  [ main:6642 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 11:11:57  [ main:7210 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 11:11:57  [ main:7210 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 11:11:57  [ main:7211 ] - [ INFO ]  loginSuccess 测试用例执行成功！
-2019-03-06 11:11:59  [ main:8344 ] - [ INFO ]  浏览器退出成功
-2019-03-06 11:11:59  [ main:8345 ] - [ INFO ]  执行成功的用例 = loginSuccess
-2019-03-06 11:11:59  [ main:8435 ] - [ DEBUG ]  Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8436 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8437 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index.ftl"): Found
-2019-03-06 11:11:59  [ main:8438 ] - [ DEBUG ]  Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2019-03-06 11:11:59  [ main:8578 ] - [ DEBUG ]  Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8578 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8581 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head.ftl"): Found
-2019-03-06 11:11:59  [ main:8581 ] - [ DEBUG ]  Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2019-03-06 11:11:59  [ main:8584 ] - [ DEBUG ]  Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8584 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8585 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav.ftl"): Found
-2019-03-06 11:11:59  [ main:8585 ] - [ DEBUG ]  Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2019-03-06 11:11:59  [ main:8594 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8595 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8595 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2019-03-06 11:11:59  [ main:8596 ] - [ DEBUG ]  Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2019-03-06 11:11:59  [ main:8603 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8604 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8604 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2019-03-06 11:11:59  [ main:8605 ] - [ DEBUG ]  Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2019-03-06 11:11:59  [ main:8615 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8615 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8616 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2019-03-06 11:11:59  [ main:8616 ] - [ DEBUG ]  Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2019-03-06 11:11:59  [ main:8629 ] - [ DEBUG ]  Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8629 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8630 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2019-03-06 11:11:59  [ main:8630 ] - [ DEBUG ]  Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2019-03-06 11:11:59  [ main:8633 ] - [ DEBUG ]  Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8633 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8633 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2019-03-06 11:11:59  [ main:8633 ] - [ DEBUG ]  Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2019-03-06 11:11:59  [ main:8637 ] - [ DEBUG ]  Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8638 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8638 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2019-03-06 11:11:59  [ main:8638 ] - [ DEBUG ]  Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2019-03-06 11:11:59  [ main:8643 ] - [ DEBUG ]  Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8645 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8646 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2019-03-06 11:11:59  [ main:8646 ] - [ DEBUG ]  Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2019-03-06 11:11:59  [ main:8650 ] - [ DEBUG ]  Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 11:11:59  [ main:8650 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2019-03-06 11:11:59  [ main:8651 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2019-03-06 11:11:59  [ main:8651 ] - [ DEBUG ]  Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2019-03-06 11:12:32  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 11:12:37  [ main:5099 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 11:12:37  [ main:5099 ] - [ INFO ]  等待页面加载完成
-2019-03-06 11:12:39  [ main:6579 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 11:12:39  [ main:6591 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 11:12:39  [ main:7158 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 11:12:39  [ main:7159 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 11:12:39  [ main:7160 ] - [ INFO ]  loginSuccess 测试用例执行成功！
-2019-03-06 11:12:40  [ main:7957 ] - [ INFO ]  浏览器退出成功
-2019-03-06 11:12:40  [ main:7958 ] - [ INFO ]  执行成功的用例 = loginSuccess
-2019-03-06 11:31:34  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 11:31:39  [ main:4816 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 11:31:39  [ main:4816 ] - [ INFO ]  等待页面加载完成
-2019-03-06 11:31:41  [ main:6682 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 11:31:41  [ main:6700 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 11:31:42  [ main:7607 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 11:31:42  [ main:7608 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 11:31:42  [ main:7881 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
-2019-03-06 11:31:42  [ main:8004 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
-2019-03-06 11:31:43  [ main:8115 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
-2019-03-06 11:31:43  [ main:8115 ] - [ INFO ]  执行登录
-2019-03-06 11:31:43  [ main:8116 ] - [ INFO ]  loginSuccess 测试用例执行成功！
-2019-03-06 11:31:44  [ main:9275 ] - [ INFO ]  浏览器退出成功
-2019-03-06 11:31:44  [ main:9276 ] - [ INFO ]  执行成功的用例 = loginSuccess
-2019-03-06 14:33:22  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 14:33:27  [ main:5056 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 14:33:27  [ main:5057 ] - [ INFO ]  等待页面加载完成
-2019-03-06 14:33:28  [ main:6631 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 14:37:50  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 14:37:55  [ main:5084 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 14:37:55  [ main:5085 ] - [ INFO ]  等待页面加载完成
-2019-03-06 14:37:56  [ main:6629 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 14:42:15  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 14:42:48  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 14:42:53  [ main:5040 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 14:42:53  [ main:5041 ] - [ INFO ]  等待页面加载完成
-2019-03-06 14:42:55  [ main:6964 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 14:43:52  [ main:64041 ] - [ ERROR ]  没有找到指定的文件：data/.Login.xls
-2019-03-06 14:44:13  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 14:44:18  [ main:5190 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 14:44:18  [ main:5190 ] - [ INFO ]  等待页面加载完成
-2019-03-06 14:44:20  [ main:6626 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 14:44:46  [ main:33076 ] - [ ERROR ]  不能读取文件：data/Login.xls
-2019-03-06 14:47:54  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 14:48:00  [ main:5138 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 14:48:00  [ main:5138 ] - [ INFO ]  等待页面加载完成
-2019-03-06 14:48:01  [ main:6519 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 14:48:02  [ main:7463 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 14:48:02  [ main:7465 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 14:48:13  [ main:18362 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
-2019-03-06 14:48:13  [ main:18442 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
-2019-03-06 14:48:13  [ main:18517 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
-2019-03-06 14:48:13  [ main:18518 ] - [ INFO ]  执行登录
-2019-03-06 14:48:59  [ main:64289 ] - [ INFO ]  线程等待时间：3秒
-2019-03-06 14:49:02  [ main:68092 ] - [ INFO ]  浏览器退出成功
-2019-03-06 14:53:29  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 14:53:34  [ main:4964 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 14:53:34  [ main:4965 ] - [ INFO ]  等待页面加载完成
-2019-03-06 14:53:37  [ main:8079 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 14:53:38  [ main:9033 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 14:53:38  [ main:9034 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 14:53:38  [ main:9323 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
-2019-03-06 14:53:38  [ main:9452 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
-2019-03-06 14:53:38  [ main:9562 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
-2019-03-06 14:53:38  [ main:9562 ] - [ INFO ]  执行登录
-2019-03-06 14:53:38  [ main:9563 ] - [ INFO ]  线程等待时间：3秒
-2019-03-06 14:53:43  [ main:14246 ] - [ INFO ]  浏览器退出成功
-2019-03-06 16:22:20  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 16:22:25  [ main:4883 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 16:22:25  [ main:4883 ] - [ INFO ]  等待页面加载完成
-2019-03-06 16:22:27  [ main:6525 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 16:22:27  [ main:6720 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 16:22:28  [ main:7446 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 16:22:28  [ main:7446 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 16:22:28  [ main:7668 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
-2019-03-06 16:22:28  [ main:7748 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
-2019-03-06 16:22:28  [ main:7823 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
-2019-03-06 16:22:28  [ main:7823 ] - [ INFO ]  执行登录
-2019-03-06 16:22:28  [ main:7823 ] - [ INFO ]  线程等待时间：3秒
-2019-03-06 16:22:31  [ main:10826 ] - [ INFO ]  loginSuccess 测试用例执行成功！
-2019-03-06 16:22:32  [ main:11752 ] - [ INFO ]  浏览器退出成功
-2019-03-06 16:22:32  [ main:11752 ] - [ INFO ]  执行成功的用例 = loginSuccess
-2019-03-06 16:22:32  [ main:11866 ] - [ DEBUG ]  Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:11868 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:11871 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index.ftl"): Found
-2019-03-06 16:22:32  [ main:11872 ] - [ DEBUG ]  Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2019-03-06 16:22:32  [ main:12045 ] - [ DEBUG ]  Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12046 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12047 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head.ftl"): Found
-2019-03-06 16:22:32  [ main:12047 ] - [ DEBUG ]  Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2019-03-06 16:22:32  [ main:12050 ] - [ DEBUG ]  Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12050 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12051 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav.ftl"): Found
-2019-03-06 16:22:32  [ main:12052 ] - [ DEBUG ]  Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2019-03-06 16:22:32  [ main:12064 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12064 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12065 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2019-03-06 16:22:32  [ main:12065 ] - [ DEBUG ]  Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2019-03-06 16:22:32  [ main:12078 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12078 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12079 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2019-03-06 16:22:32  [ main:12079 ] - [ DEBUG ]  Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2019-03-06 16:22:32  [ main:12101 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12101 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12102 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2019-03-06 16:22:32  [ main:12102 ] - [ DEBUG ]  Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2019-03-06 16:22:32  [ main:12118 ] - [ DEBUG ]  Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12118 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12119 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2019-03-06 16:22:32  [ main:12119 ] - [ DEBUG ]  Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2019-03-06 16:22:32  [ main:12123 ] - [ DEBUG ]  Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12124 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12125 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2019-03-06 16:22:32  [ main:12125 ] - [ DEBUG ]  Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2019-03-06 16:22:32  [ main:12130 ] - [ DEBUG ]  Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12130 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12131 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2019-03-06 16:22:32  [ main:12131 ] - [ DEBUG ]  Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2019-03-06 16:22:32  [ main:12135 ] - [ DEBUG ]  Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12136 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12136 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2019-03-06 16:22:32  [ main:12137 ] - [ DEBUG ]  Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2019-03-06 16:22:32  [ main:12141 ] - [ DEBUG ]  Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:22:32  [ main:12141 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2019-03-06 16:22:32  [ main:12142 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2019-03-06 16:22:32  [ main:12142 ] - [ DEBUG ]  Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2019-03-06 16:28:20  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 16:28:27  [ main:7261 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 16:28:27  [ main:7261 ] - [ INFO ]  等待页面加载完成
-2019-03-06 16:28:29  [ main:9434 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 16:28:29  [ main:9624 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 16:28:30  [ main:10807 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 16:28:30  [ main:10808 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 16:28:31  [ main:11035 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
-2019-03-06 16:28:31  [ main:11113 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
-2019-03-06 16:28:31  [ main:11193 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
-2019-03-06 16:28:31  [ main:11193 ] - [ INFO ]  执行登录
-2019-03-06 16:28:31  [ main:11193 ] - [ INFO ]  线程等待时间：3秒
-2019-03-06 16:28:34  [ main:14196 ] - [ INFO ]  loginSuccess 测试用例执行成功！
-2019-03-06 16:28:34  [ main:14324 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 16:28:34  [ main:14363 ] - [ ERROR ]  no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='登录']"}
+2019-03-07 09:01:32  [ main:0 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:01:37  [ main:5537 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:01:37  [ main:5538 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:01:39  [ main:7120 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:01:39  [ main:7374 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:01:40  [ main:8404 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:01:40  [ main:8405 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:01:41  [ main:8650 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
+2019-03-07 09:01:41  [ main:8732 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:01:41  [ main:8813 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:01:41  [ main:8814 ] - [ INFO ]  执行登录
+2019-03-07 09:01:41  [ main:8814 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:01:44  [ main:11862 ] - [ INFO ]  loginSuccess 测试用例执行成功！
+2019-03-07 09:01:45  [ main:12754 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:01:45  [ main:12756 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:01:52  [ main:20406 ] - [ WARN ]  loginSuccess 测试用例由于某些原因被跳过！
+2019-03-07 09:01:52  [ main:20488 ] - [ INFO ]  执行成功的用例 = loginSuccess
+2019-03-07 09:01:52  [ main:20489 ] - [ INFO ]  被跳过的用例 = loginSuccess
+2019-03-07 09:01:53  [ main:20758 ] - [ DEBUG ]  Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:20759 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:20762 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-03-07 09:01:53  [ main:20762 ] - [ DEBUG ]  Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-03-07 09:01:53  [ main:20945 ] - [ DEBUG ]  Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:20945 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:20946 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-03-07 09:01:53  [ main:20946 ] - [ DEBUG ]  Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-03-07 09:01:53  [ main:20949 ] - [ DEBUG ]  Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:20949 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:20950 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-03-07 09:01:53  [ main:20950 ] - [ DEBUG ]  Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-03-07 09:01:53  [ main:20958 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:20958 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:20958 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-03-07 09:01:53  [ main:20958 ] - [ DEBUG ]  Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-03-07 09:01:53  [ main:20967 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:20967 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:20968 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-03-07 09:01:53  [ main:20968 ] - [ DEBUG ]  Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-03-07 09:01:53  [ main:20980 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:20980 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:20981 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-03-07 09:01:53  [ main:20982 ] - [ DEBUG ]  Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-03-07 09:01:53  [ main:20997 ] - [ DEBUG ]  "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-03-07 09:01:53  [ main:20997 ] - [ DEBUG ]  Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:20998 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:20998 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-03-07 09:01:53  [ main:20998 ] - [ DEBUG ]  Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-03-07 09:01:53  [ main:21001 ] - [ DEBUG ]  Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:21002 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:21002 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-03-07 09:01:53  [ main:21002 ] - [ DEBUG ]  Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-03-07 09:01:53  [ main:21006 ] - [ DEBUG ]  Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:21007 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:21007 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-03-07 09:01:53  [ main:21007 ] - [ DEBUG ]  Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-03-07 09:01:53  [ main:21021 ] - [ DEBUG ]  Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:21021 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:21022 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-03-07 09:01:53  [ main:21022 ] - [ DEBUG ]  Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-03-07 09:01:53  [ main:21031 ] - [ DEBUG ]  Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-03-07 09:01:53  [ main:21031 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-03-07 09:01:53  [ main:21032 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-03-07 09:01:53  [ main:21032 ] - [ DEBUG ]  Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-03-07 09:42:38  [ main:0 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:42:43  [ main:5220 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:42:43  [ main:5221 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:42:45  [ main:7554 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:42:46  [ main:7726 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:42:47  [ main:9083 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:42:47  [ main:9084 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:42:47  [ main:9370 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
+2019-03-07 09:42:47  [ main:9487 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:42:47  [ main:9576 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:42:47  [ main:9577 ] - [ INFO ]  执行登录
+2019-03-07 09:42:47  [ main:9577 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:42:50  [ main:12624 ] - [ INFO ]  loginSuccess 测试用例执行成功！
+2019-03-07 09:42:51  [ main:13640 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:42:51  [ main:13642 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:42:55  [ main:17629 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:42:55  [ main:17631 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:42:57  [ main:19530 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:42:58  [ main:19656 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:42:59  [ main:20703 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:42:59  [ main:20704 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:42:59  [ main:20933 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据17000215238
+2019-03-07 09:42:59  [ main:21007 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:42:59  [ main:21079 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:42:59  [ main:21079 ] - [ INFO ]  执行登录
+2019-03-07 09:42:59  [ main:21080 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:43:02  [ main:24119 ] - [ ERROR ]  no such element: Unable to locate element: {"method":"xpath","selector":"//h2"}
   (Session info: chrome=72.0.3626.121)
   (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
 Command duration or timeout: 0 milliseconds
 For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'WINDOWS-UDCNCAN', ip: '10.10.30.163', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+System info: host: 'WINDOWS-UDCNCAN', ip: '10.10.11.254', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
 Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\EDZ\AppData\Local\...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
-Session ID: d0184bf1ed212610f690d0d49d93d891
-*** Element info: {Using=xpath, value=//a[text()='登录']}
-2019-03-06 16:28:34  [ main:14364 ] - [ WARN ]  loginSuccess 测试用例执行失败！
-2019-03-06 16:28:35  [ main:15570 ] - [ INFO ]  浏览器退出成功
-2019-03-06 16:28:35  [ main:15570 ] - [ INFO ]  执行成功的用例 = loginSuccess
-2019-03-06 16:28:35  [ main:15570 ] - [ INFO ]  执行失败的用例 = loginSuccess
-2019-03-06 16:28:35  [ main:15676 ] - [ DEBUG ]  Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:35  [ main:15677 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2019-03-06 16:28:35  [ main:15679 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index.ftl"): Found
-2019-03-06 16:28:35  [ main:15679 ] - [ DEBUG ]  Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2019-03-06 16:28:36  [ main:15864 ] - [ DEBUG ]  Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15865 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15866 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head.ftl"): Found
-2019-03-06 16:28:36  [ main:15866 ] - [ DEBUG ]  Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2019-03-06 16:28:36  [ main:15869 ] - [ DEBUG ]  Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15870 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15870 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav.ftl"): Found
-2019-03-06 16:28:36  [ main:15870 ] - [ DEBUG ]  Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2019-03-06 16:28:36  [ main:15881 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15882 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15882 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2019-03-06 16:28:36  [ main:15883 ] - [ DEBUG ]  Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2019-03-06 16:28:36  [ main:15891 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15892 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15892 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2019-03-06 16:28:36  [ main:15893 ] - [ DEBUG ]  Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2019-03-06 16:28:36  [ main:15904 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15904 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15904 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2019-03-06 16:28:36  [ main:15905 ] - [ DEBUG ]  Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2019-03-06 16:28:36  [ main:15920 ] - [ DEBUG ]  "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
-2019-03-06 16:28:36  [ main:15921 ] - [ DEBUG ]  Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15921 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15921 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2019-03-06 16:28:36  [ main:15922 ] - [ DEBUG ]  Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2019-03-06 16:28:36  [ main:15925 ] - [ DEBUG ]  Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15926 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15926 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2019-03-06 16:28:36  [ main:15927 ] - [ DEBUG ]  Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2019-03-06 16:28:36  [ main:15931 ] - [ DEBUG ]  Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15932 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15932 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2019-03-06 16:28:36  [ main:15932 ] - [ DEBUG ]  Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2019-03-06 16:28:36  [ main:15939 ] - [ DEBUG ]  Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15939 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15940 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2019-03-06 16:28:36  [ main:15940 ] - [ DEBUG ]  Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2019-03-06 16:28:36  [ main:15953 ] - [ DEBUG ]  Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:28:36  [ main:15954 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2019-03-06 16:28:36  [ main:15958 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2019-03-06 16:28:36  [ main:15958 ] - [ DEBUG ]  Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2019-03-06 16:30:33  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 16:30:38  [ main:5006 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 16:30:38  [ main:5006 ] - [ INFO ]  等待页面加载完成
-2019-03-06 16:30:40  [ main:6563 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 16:30:40  [ main:6782 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 16:30:40  [ main:7325 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 16:30:40  [ main:7326 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 16:30:41  [ main:7528 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
-2019-03-06 16:30:41  [ main:7618 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
-2019-03-06 16:30:41  [ main:7692 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
-2019-03-06 16:30:41  [ main:7692 ] - [ INFO ]  执行登录
-2019-03-06 16:30:41  [ main:7693 ] - [ INFO ]  线程等待时间：3秒
-2019-03-06 16:30:44  [ main:10694 ] - [ INFO ]  loginSuccess 测试用例执行成功！
-2019-03-06 16:30:45  [ main:11575 ] - [ INFO ]  浏览器退出成功
-2019-03-06 16:30:45  [ main:11674 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 16:30:45  [ main:11681 ] - [ ERROR ]  Session ID is null. Using WebDriver after calling quit()?
+Session ID: 9f691d05ef7169aebbb7361fd38d0b1e
+*** Element info: {Using=xpath, value=//h2}
+2019-03-07 09:43:02  [ main:24123 ] - [ WARN ]  loginSuccess 测试用例执行失败！
+2019-03-07 09:43:03  [ main:25035 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:43:03  [ main:25056 ] - [ INFO ]  执行成功的用例 = loginSuccess
+2019-03-07 09:43:03  [ main:25056 ] - [ INFO ]  执行失败的用例 = loginSuccess
+2019-03-07 09:44:11  [ main:0 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:44:16  [ main:4977 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:44:16  [ main:4977 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:44:19  [ main:7721 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:44:19  [ main:7879 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:44:20  [ main:8891 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:44:20  [ main:8891 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:44:21  [ main:9162 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
+2019-03-07 09:44:21  [ main:9281 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:44:21  [ main:9386 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:44:21  [ main:9386 ] - [ INFO ]  执行登录
+2019-03-07 09:44:21  [ main:9386 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:44:24  [ main:12458 ] - [ INFO ]  loginSuccess 测试用例执行成功！
+2019-03-07 09:44:25  [ main:13337 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:44:25  [ main:13338 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:44:29  [ main:17081 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:44:29  [ main:17082 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:44:30  [ main:18613 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:44:30  [ main:18722 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:44:31  [ main:19578 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:44:31  [ main:19578 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:44:31  [ main:19808 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据17000215238
+2019-03-07 09:44:31  [ main:19894 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:44:31  [ main:19994 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:44:31  [ main:19994 ] - [ INFO ]  执行登录
+2019-03-07 09:44:31  [ main:19994 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:44:35  [ main:23033 ] - [ ERROR ]  no such element: Unable to locate element: {"method":"xpath","selector":"//h2"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
 Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
-System info: host: 'WINDOWS-UDCNCAN', ip: '10.10.30.163', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
-Driver info: driver.version: RemoteWebDriver
-2019-03-06 16:30:45  [ main:11683 ] - [ WARN ]  loginSuccess 测试用例执行失败！
-2019-03-06 16:30:45  [ main:11759 ] - [ INFO ]  浏览器退出成功
-2019-03-06 16:30:45  [ main:11760 ] - [ INFO ]  执行成功的用例 = loginSuccess
-2019-03-06 16:30:45  [ main:11760 ] - [ INFO ]  执行失败的用例 = loginSuccess
-2019-03-06 16:30:45  [ main:11866 ] - [ DEBUG ]  Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:11868 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:11870 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index.ftl"): Found
-2019-03-06 16:30:45  [ main:11871 ] - [ DEBUG ]  Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2019-03-06 16:30:45  [ main:12040 ] - [ DEBUG ]  Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12041 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12041 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head.ftl"): Found
-2019-03-06 16:30:45  [ main:12042 ] - [ DEBUG ]  Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2019-03-06 16:30:45  [ main:12045 ] - [ DEBUG ]  Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12046 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12046 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav.ftl"): Found
-2019-03-06 16:30:45  [ main:12046 ] - [ DEBUG ]  Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2019-03-06 16:30:45  [ main:12057 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12057 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12057 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2019-03-06 16:30:45  [ main:12058 ] - [ DEBUG ]  Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2019-03-06 16:30:45  [ main:12066 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12066 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12066 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2019-03-06 16:30:45  [ main:12067 ] - [ DEBUG ]  Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2019-03-06 16:30:45  [ main:12080 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12080 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12081 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2019-03-06 16:30:45  [ main:12081 ] - [ DEBUG ]  Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2019-03-06 16:30:45  [ main:12098 ] - [ DEBUG ]  "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
-2019-03-06 16:30:45  [ main:12099 ] - [ DEBUG ]  Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12100 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12100 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2019-03-06 16:30:45  [ main:12101 ] - [ DEBUG ]  Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2019-03-06 16:30:45  [ main:12103 ] - [ DEBUG ]  Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12104 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12104 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2019-03-06 16:30:45  [ main:12104 ] - [ DEBUG ]  Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2019-03-06 16:30:45  [ main:12108 ] - [ DEBUG ]  Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12109 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12109 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2019-03-06 16:30:45  [ main:12110 ] - [ DEBUG ]  Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2019-03-06 16:30:45  [ main:12118 ] - [ DEBUG ]  Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12118 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12119 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2019-03-06 16:30:45  [ main:12119 ] - [ DEBUG ]  Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2019-03-06 16:30:45  [ main:12123 ] - [ DEBUG ]  Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:30:45  [ main:12124 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2019-03-06 16:30:45  [ main:12125 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2019-03-06 16:30:45  [ main:12125 ] - [ DEBUG ]  Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
-2019-03-06 16:31:00  [ main:0 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 16:31:05  [ main:5104 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 16:31:05  [ main:5104 ] - [ INFO ]  等待页面加载完成
-2019-03-06 16:31:06  [ main:6515 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 16:31:07  [ main:6699 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 16:31:07  [ main:7226 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 16:31:07  [ main:7227 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 16:31:07  [ main:7423 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
-2019-03-06 16:31:07  [ main:7493 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
-2019-03-06 16:31:07  [ main:7557 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
-2019-03-06 16:31:07  [ main:7557 ] - [ INFO ]  执行登录
-2019-03-06 16:31:07  [ main:7558 ] - [ INFO ]  线程等待时间：3秒
-2019-03-06 16:31:10  [ main:10560 ] - [ INFO ]  loginSuccess 测试用例执行成功！
-2019-03-06 16:31:11  [ main:11397 ] - [ INFO ]  浏览器退出成功
-2019-03-06 16:31:11  [ main:11398 ] - [ INFO ]  开始加载浏览器了
-2019-03-06 16:31:15  [ main:15107 ] - [ INFO ]  浏览器最大化成功
-2019-03-06 16:31:15  [ main:15108 ] - [ INFO ]  等待页面加载完成
-2019-03-06 16:31:17  [ main:17043 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
-2019-03-06 16:31:17  [ main:17174 ] - [ INFO ]  loginSuccess 测试用例开始执行！
-2019-03-06 16:31:18  [ main:18493 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
-2019-03-06 16:31:18  [ main:18493 ] - [ INFO ]  跳转进入登录页面
-2019-03-06 16:31:19  [ main:18723 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据17000215238
-2019-03-06 16:31:19  [ main:18801 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
-2019-03-06 16:31:19  [ main:18884 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
-2019-03-06 16:31:19  [ main:18885 ] - [ INFO ]  执行登录
-2019-03-06 16:31:19  [ main:18885 ] - [ INFO ]  线程等待时间：3秒
-2019-03-06 16:31:22  [ main:21885 ] - [ INFO ]  loginSuccess 测试用例执行成功！
-2019-03-06 16:31:23  [ main:23060 ] - [ INFO ]  浏览器退出成功
-2019-03-06 16:31:23  [ main:23061 ] - [ INFO ]  执行成功的用例 = loginSuccess
-2019-03-06 16:31:23  [ main:23061 ] - [ INFO ]  执行成功的用例 = loginSuccess
-2019-03-06 16:31:23  [ main:23141 ] - [ DEBUG ]  Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23142 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23143 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("index.ftl"): Found
-2019-03-06 16:31:23  [ main:23143 ] - [ DEBUG ]  Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
-2019-03-06 16:31:23  [ main:23283 ] - [ DEBUG ]  Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23283 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23283 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("head.ftl"): Found
-2019-03-06 16:31:23  [ main:23284 ] - [ DEBUG ]  Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
-2019-03-06 16:31:23  [ main:23287 ] - [ DEBUG ]  Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23287 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23288 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("nav.ftl"): Found
-2019-03-06 16:31:23  [ main:23288 ] - [ DEBUG ]  Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
-2019-03-06 16:31:23  [ main:23296 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23297 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23297 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
-2019-03-06 16:31:23  [ main:23297 ] - [ DEBUG ]  Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
-2019-03-06 16:31:23  [ main:23306 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23306 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23307 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
-2019-03-06 16:31:23  [ main:23307 ] - [ DEBUG ]  Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
-2019-03-06 16:31:23  [ main:23318 ] - [ DEBUG ]  Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23318 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23319 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
-2019-03-06 16:31:23  [ main:23319 ] - [ DEBUG ]  Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
-2019-03-06 16:31:23  [ main:23336 ] - [ DEBUG ]  "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
-2019-03-06 16:31:23  [ main:23337 ] - [ DEBUG ]  Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23338 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23338 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
-2019-03-06 16:31:23  [ main:23339 ] - [ DEBUG ]  Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
-2019-03-06 16:31:23  [ main:23343 ] - [ DEBUG ]  Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23343 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23343 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
-2019-03-06 16:31:23  [ main:23344 ] - [ DEBUG ]  Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
-2019-03-06 16:31:23  [ main:23347 ] - [ DEBUG ]  Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23348 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23348 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
-2019-03-06 16:31:23  [ main:23349 ] - [ DEBUG ]  Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
-2019-03-06 16:31:23  [ main:23352 ] - [ DEBUG ]  Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23353 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23353 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
-2019-03-06 16:31:23  [ main:23354 ] - [ DEBUG ]  Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
-2019-03-06 16:31:23  [ main:23358 ] - [ DEBUG ]  Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
-2019-03-06 16:31:23  [ main:23359 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
-2019-03-06 16:31:23  [ main:23359 ] - [ DEBUG ]  TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
-2019-03-06 16:31:23  [ main:23360 ] - [ DEBUG ]  Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/D:/MavenRepository/com/aventstack/extentreports/3.0.6/extentreports-3.0.6.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+System info: host: 'WINDOWS-UDCNCAN', ip: '10.10.11.254', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\EDZ\AppData\Local\...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 3319f522370ce55dea893fafb9dc1049
+*** Element info: {Using=xpath, value=//h2}
+2019-03-07 09:44:35  [ main:23034 ] - [ WARN ]  loginSuccess 测试用例执行失败！
+2019-03-07 09:44:35  [ main:23902 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:44:35  [ main:23929 ] - [ INFO ]  执行成功的用例 = loginSuccess
+2019-03-07 09:44:35  [ main:23929 ] - [ INFO ]  执行失败的用例 = loginSuccess
+2019-03-07 09:45:50  [ main:0 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:45:55  [ main:5416 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:45:55  [ main:5416 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:45:57  [ main:7231 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:45:57  [ main:7403 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:45:58  [ main:8278 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:45:58  [ main:8279 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:45:58  [ main:8531 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
+2019-03-07 09:45:58  [ main:8629 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:45:58  [ main:8707 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:45:58  [ main:8707 ] - [ INFO ]  执行登录
+2019-03-07 09:45:58  [ main:8708 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:46:01  [ main:11751 ] - [ INFO ]  loginSuccess 测试用例执行成功！
+2019-03-07 09:46:02  [ main:12605 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:46:02  [ main:12606 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:46:06  [ main:16313 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:46:06  [ main:16313 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:46:08  [ main:18473 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:46:08  [ main:18600 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:46:09  [ main:19747 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:46:09  [ main:19747 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:46:10  [ main:19993 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据17000215238
+2019-03-07 09:46:10  [ main:20068 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:46:10  [ main:20146 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:46:10  [ main:20147 ] - [ INFO ]  执行登录
+2019-03-07 09:46:10  [ main:20147 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:46:13  [ main:23489 ] - [ ERROR ]  no such element: Unable to locate element: {"method":"xpath","selector":"//h2"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'WINDOWS-UDCNCAN', ip: '10.10.11.254', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\EDZ\AppData\Local\...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 5eb08054ac37b1045fd27968564e1bc4
+*** Element info: {Using=xpath, value=//h2}
+2019-03-07 09:46:13  [ main:23490 ] - [ WARN ]  loginSuccess 测试用例执行失败！
+2019-03-07 09:46:14  [ main:24342 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:46:14  [ main:24363 ] - [ INFO ]  执行成功的用例 = loginSuccess
+2019-03-07 09:46:14  [ main:24364 ] - [ INFO ]  执行失败的用例 = loginSuccess

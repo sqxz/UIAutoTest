@@ -9,6 +9,9 @@
     </test>
     <listeners>
         <listener class-name="com.webautotest.utils.TestResultListener"/>
-        <listener class-name="com.webautotest.utils.ExtentTestNGIReportListener"/>
+        <!--<listener class-name="com.webautotest.utils.ExtentTestNGIReportListener"/>-->
+        
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
     </listeners>
 </suite>
