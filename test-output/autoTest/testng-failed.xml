@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [autoTest]">
+  <listeners>
+    <listener class-name="com.webautotest.utils.TestResultListener"/>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="test(failed)">
+    <classes>
+      <class name="com.webautotest.testcases.Login_002">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeTest"/>
+          <include name="loginSuccess" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.webautotest.testcases.Login_002 -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [autoTest] -->
