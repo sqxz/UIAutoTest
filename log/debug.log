@@ -184,3 +184,85 @@ Session ID: 5eb08054ac37b1045fd27968564e1bc4
 2019-03-07 09:46:14  [ main:24342 ] - [ INFO ]  浏览器退出成功
 2019-03-07 09:46:14  [ main:24363 ] - [ INFO ]  执行成功的用例 = loginSuccess
 2019-03-07 09:46:14  [ main:24364 ] - [ INFO ]  执行失败的用例 = loginSuccess
+2019-03-07 09:54:18  [ main:0 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:54:23  [ main:4914 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:54:23  [ main:4914 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:54:26  [ main:7896 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:54:26  [ main:8047 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:54:27  [ main:8995 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:54:27  [ main:8995 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:54:27  [ main:9224 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
+2019-03-07 09:54:27  [ main:9313 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:54:27  [ main:9397 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:54:27  [ main:9398 ] - [ INFO ]  执行登录
+2019-03-07 09:54:27  [ main:9398 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:54:30  [ main:12445 ] - [ INFO ]  loginSuccess 测试用例执行成功！
+2019-03-07 09:54:31  [ main:13477 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:54:31  [ main:13479 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 09:54:35  [ main:17338 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 09:54:35  [ main:17339 ] - [ INFO ]  等待页面加载完成
+2019-03-07 09:54:37  [ main:19170 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 09:54:37  [ main:19272 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 09:54:38  [ main:20178 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 09:54:38  [ main:20178 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 09:54:38  [ main:20400 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据17000215238
+2019-03-07 09:54:38  [ main:20499 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 09:54:39  [ main:20579 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 09:54:39  [ main:20580 ] - [ INFO ]  执行登录
+2019-03-07 09:54:39  [ main:20580 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 09:54:42  [ main:23625 ] - [ ERROR ]  no such element: Unable to locate element: {"method":"xpath","selector":"//h2"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'WINDOWS-UDCNCAN', ip: '10.10.11.254', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\EDZ\AppData\Local\...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 9dbdee35470f9acae0b048849ad8761d
+*** Element info: {Using=xpath, value=//h2}
+2019-03-07 09:54:42  [ main:23625 ] - [ WARN ]  loginSuccess 测试用例执行失败！
+2019-03-07 09:54:42  [ main:24522 ] - [ INFO ]  浏览器退出成功
+2019-03-07 09:54:42  [ main:24522 ] - [ INFO ]  执行成功的用例 = loginSuccess
+2019-03-07 09:54:42  [ main:24523 ] - [ INFO ]  执行失败的用例 = loginSuccess
+2019-03-07 10:02:30  [ main:0 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 10:02:35  [ main:5177 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 10:02:35  [ main:5178 ] - [ INFO ]  等待页面加载完成
+2019-03-07 10:02:38  [ main:7677 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 10:02:38  [ main:7888 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 10:02:39  [ main:9174 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 10:02:39  [ main:9175 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 10:02:40  [ main:9427 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据18621696393
+2019-03-07 10:02:40  [ main:9526 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 10:02:40  [ main:9612 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 10:02:40  [ main:9612 ] - [ INFO ]  执行登录
+2019-03-07 10:02:40  [ main:9612 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 10:02:43  [ main:12660 ] - [ INFO ]  loginSuccess 测试用例执行成功！
+2019-03-07 10:02:44  [ main:13538 ] - [ INFO ]  浏览器退出成功
+2019-03-07 10:02:44  [ main:13540 ] - [ INFO ]  开始加载浏览器了
+2019-03-07 10:02:48  [ main:17399 ] - [ INFO ]  浏览器最大化成功
+2019-03-07 10:02:48  [ main:17400 ] - [ INFO ]  等待页面加载完成
+2019-03-07 10:02:49  [ main:19337 ] - [ INFO ]  打开测试页面：http://www.test.styd.cn/
+2019-03-07 10:02:50  [ main:19509 ] - [ INFO ]  loginSuccess 测试用例开始执行！
+2019-03-07 10:02:50  [ main:20340 ] - [ INFO ]  点击元素：By.xpath: //a[text()='登录']
+2019-03-07 10:02:50  [ main:20340 ] - [ INFO ]  跳转进入登录页面
+2019-03-07 10:02:51  [ main:20581 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_name')]中填入数据17000215238
+2019-03-07 10:02:51  [ main:20661 ] - [ INFO ]  向元素：By.xpath: //input[contains(@name,'login_pwd')]中填入数据123456
+2019-03-07 10:02:51  [ main:20752 ] - [ INFO ]  点击元素：By.xpath: //a[contains(@class,'do_login')]
+2019-03-07 10:02:51  [ main:20752 ] - [ INFO ]  执行登录
+2019-03-07 10:02:51  [ main:20752 ] - [ INFO ]  线程等待时间：3秒
+2019-03-07 10:02:54  [ main:23791 ] - [ ERROR ]  no such element: Unable to locate element: {"method":"xpath","selector":"//h2"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=2.39.562718 (9a2698cba08cf5a471a29d30c8b3e12becabb0e9),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'WINDOWS-UDCNCAN', ip: '10.10.11.254', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_201'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.39.562718 (9a2698cba08cf5..., userDataDir: C:\Users\EDZ\AppData\Local\...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 72.0.3626.121, webStorageEnabled: true}
+Session ID: 760f406db8be2482857a5fbac4561296
+*** Element info: {Using=xpath, value=//h2}
+2019-03-07 10:02:54  [ main:23792 ] - [ WARN ]  loginSuccess 测试用例执行失败！
+2019-03-07 10:02:55  [ main:25009 ] - [ INFO ]  浏览器退出成功
+2019-03-07 10:02:55  [ main:25085 ] - [ INFO ]  执行成功的用例 = loginSuccess
+2019-03-07 10:02:55  [ main:25085 ] - [ INFO ]  执行失败的用例 = loginSuccess
